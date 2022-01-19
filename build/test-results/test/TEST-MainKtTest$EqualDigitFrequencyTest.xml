@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Equal Digit Frequency Test" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-01-19T21:32:27" hostname="JAKODE" time="0.034">
+  <properties/>
+  <testcase name="The digital frequency is the same but the numbers are not the same" classname="MainKtTest$EqualDigitFrequencyTest" time="0.031"/>
+  <testcase name="The numbers are the same" classname="MainKtTest$EqualDigitFrequencyTest" time="0.001"/>
+  <testcase name="The numbers aren't the same" classname="MainKtTest$EqualDigitFrequencyTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
